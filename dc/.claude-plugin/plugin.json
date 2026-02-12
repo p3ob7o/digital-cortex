@@ -1,0 +1,8 @@
+{
+  "name": "dc",
+  "description": "Digital Cortex — personal operating system built on Claude Code and Obsidian",
+  "version": "0.1.0",
+  "author": {
+    "name": "Paolo Belcastro"
+  }
+}
