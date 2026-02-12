@@ -57,7 +57,7 @@ EXTERNAL SOURCES (Gmail, Calendar, Slack, P2, Linear, Reminders)
 | `6_Archive/` | Completed/processed items; `Daily-Notes/YYYY/MM/` |
 | `7_Assets/` | Linked files (images, PDFs, etc.) |
 | `8_People/` | One markdown file per person (PRM) |
-| `9_Meta/` | Config, prompts, memory, state |
+| `9_Meta/` | Config, Prompts, memory, state |
 
 ## Configuration
 
@@ -68,7 +68,7 @@ On activation, read `9_Meta/config.yaml` to understand:
 - **Behavior modes**: suggestion vs autonomous, retry settings
 
 Resolve `{{variables}}` in templates using config values and computed dates.
-See [references/config-schema.md](references/config-schema.md) for the full schema,
+See [References/config-schema.md](References/config-schema.md) for the full schema,
 variable syntax, state tracking, and template format.
 
 ## Feature Skills
