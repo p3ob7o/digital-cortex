@@ -54,7 +54,7 @@ EXTERNAL SOURCES (Gmail, Calendar, Slack, P2, Linear, Reminders)
 | `3_Projects/` | Active projects (folders with index) |
 | `4_Areas/` | Ongoing responsibilities (files) |
 | `5_Resources/` | Reference material |
-| `6_Archive/` | Completed/processed items; `Daily-Notes/YYYY/MM/` |
+| `6_Archive/` | Completed/processed items; `Daily Notes/YYYY/MM/` |
 | `7_Assets/` | Linked files (images, PDFs, etc.) |
 | `8_People/` | One markdown file per person (PRM) |
 | `9_Meta/` | Config, Prompts, memory, state |

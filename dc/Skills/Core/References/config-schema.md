@@ -46,7 +46,7 @@ sources:
 
 vault:
   daily_note_format: string        # e.g. "YYYY-MM-DD dddd"
-  archive_path: string             # e.g. "6_Archive/Daily-Notes"
+  archive_path: string             # e.g. "6_Archive/Daily Notes"
   stale_threshold_hours: number    # Default: 4
 
 behavior:
